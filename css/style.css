@@ -1,0 +1,97 @@
+@media  (max-width: 768px) {.main-wrapper {
+margin-left: auto;
+margin-right: auto;
+width: 375px;}
+.style0 {
+background-color: #0088ff;
+box-shadow: 1px 2px 2px 1px rgba(0,0,0,0.25098039215686274);
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+display: flex;
+margin-left: 94px;
+margin-top: 151px;
+width: 188px;
+height: 49px;
+align-items: center;
+flex-direction: column;}
+.style1 {
+color: #ffffff;
+font-family: 'arial',serif;
+font-size: 0.875em;
+margin-top: 31px;
+height: 0px;}
+}@media  (min-width: 768px)  and  (max-width: 920px) {.main-wrapper {
+margin-left: auto;
+margin-right: auto;
+width: 768px;}
+.style0 {
+background-color: #0088ff;
+box-shadow: 1px 2px 2px 1px rgba(0,0,0,0.25098039215686274);
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+display: flex;
+margin-left: 193px;
+margin-top: 309px;
+width: 385px;
+height: 100px;
+align-items: center;
+flex-direction: column;}
+.style1 {
+color: #ffffff;
+font-family: 'arial',serif;
+font-size: 1.792em;
+margin-top: 63px;
+height: 0px;}
+}@media  (min-width: 920px)  and  (max-width: 1200px) {.main-wrapper {
+margin-left: auto;
+margin-right: auto;
+width: 920px;}
+.style0 {
+background-color: #0088ff;
+box-shadow: 1px 2px 2px 1px rgba(0,0,0,0.25098039215686274);
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+display: flex;
+margin-left: 231px;
+margin-top: 370px;
+width: 461px;
+height: 120px;
+align-items: center;
+flex-direction: column;}
+.style1 {
+color: #ffffff;
+font-family: 'arial',serif;
+font-size: 2.1466666666666665em;
+margin-top: 76px;
+height: 0px;}
+}@media  (min-width: 1200px) {.main-wrapper {
+margin-left: auto;
+margin-right: auto;
+width: 1200px;}
+.style0 {
+background-color: #0088ff;
+box-shadow: 1px 2px 2px 1px rgba(0,0,0,0.25098039215686274);
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+display: flex;
+margin-left: 301px;
+margin-top: 483px;
+width: 602px;
+height: 157px;
+align-items: center;
+flex-direction: column;}
+.style1 {
+color: #ffffff;
+font-family: 'arial',serif;
+font-size: 2.8000000000000003em;
+margin-top: 99px;
+height: 0px;}
+}
